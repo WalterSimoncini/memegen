@@ -1,0 +1,1 @@
+{"rnn_layers": 3, "rnn_size": 128, "rnn_bidirectional": false, "max_length": 32, "max_words": 10000, "dim_embeddings": 64, "word_level": false, "single_text": false, "name": "final_no_tf", "train_size": 0.75}

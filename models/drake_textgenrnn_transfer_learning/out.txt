@@ -1,0 +1,24 @@
+8,375 texts collected.
+Training on 286,348 character sequences.
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Epoch 1/10
+1118/1118 [==============================] - 841s 753ms/step - loss: 1.6325 - val_loss: 1.5372
+Epoch 2/10
+1118/1118 [==============================] - 844s 755ms/step - loss: 1.4763 - val_loss: 1.4848
+Epoch 3/10
+1118/1118 [==============================] - 854s 763ms/step - loss: 1.4117 - val_loss: 1.6005
+Epoch 4/10
+1118/1118 [==============================] - 839s 750ms/step - loss: 1.3627 - val_loss: 1.5832
+Epoch 5/10
+1118/1118 [==============================] - 835s 747ms/step - loss: 1.3190 - val_loss: 1.2786
+Epoch 6/10
+1118/1118 [==============================] - 841s 752ms/step - loss: 1.2782 - val_loss: 1.4225
+Epoch 7/10
+1118/1118 [==============================] - 853s 763ms/step - loss: 1.2403 - val_loss: 1.3828
+Epoch 8/10
+1118/1118 [==============================] - 852s 762ms/step - loss: 1.2040 - val_loss: 1.3190
+Epoch 9/10
+1118/1118 [==============================] - 874s 782ms/step - loss: 1.1693 - val_loss: 1.4838
+Epoch 10/10
+1118/1118 [==============================] - 846s 757ms/step - loss: 1.1376 - val_loss: 1.4140
